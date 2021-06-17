@@ -1,0 +1,19 @@
+dev:
+  debug: false
+  version: 0.1.0
+  maintainer:
+    name: Théo Vidal
+    link: https://github.com/theovidal
+bot:
+  name: CraftLink [DEV]
+  id: 854766609289052200
+  illustration: https://cdn.discordapp.com/avatars/854766609289052200/ab37ede932799f2f4f7dfd99ad583b7d.png?size=256
+  website: https://github.com/theovidal/craftlink
+  invite_link:
+  license: https://github.com/theovidal/craftlink/blob/main/LICENSE
+  donate: https://www.buymeacoffee.com/theovidal
+  color: 2250675
+  error_color: 12000284
+cache:
+  address: localhost
+  port: 6379
